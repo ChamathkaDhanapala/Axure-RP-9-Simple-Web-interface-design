@@ -1,4 +1,4 @@
-# Human-Computer-Interaction-Day01
+# Axure-RP-9-Simple-Web-interface-design
 
 ## Project Overview
 This repository contains UI prototypes for a fitness application developed using Axure RP 9. The prototype includes a user login screen and a fitness website homepage (ALEXA brand).
